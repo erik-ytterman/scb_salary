@@ -3,12 +3,12 @@ Erik Ytterman, PhaseShift Consulting AB, info@phaseshift.se
 
 # BACKGROUND
 This simple demo show how to use information from "Statistics Sweden" (SCB) to display salary 
-statistics in Stockholm, based on data from 2015. It aims at showing how free statitical 
-information may be visualized using open-source technoligy that's manageble by most people
+statistics in Stockholm, based on data from 2015. It aims at showing how free statistical 
+information may be visualized using open-source technology that's manageable by most people
 with basic programming skills.
 
 The image produced by the demo show three graphs, the median salaries (topmost), the average 
-salaries (middle) and number of individuals in the sample. Blue bars are males, organge are
+salaries (middle) and number of individuals in the sample. Blue bars are males, organize are
 females.
 
 The demo fetch information using an API, transform and display the salary statistics using the 
@@ -19,9 +19,8 @@ Statistics Sweden (SCB) is responsible for official statistics and for other gov
 statistics. They develop, produce and disseminate the statistics. In addition, they coordinate 
 the system for the official statistics in Sweden.
 
-The code is free to modify an use by anyone as long as you reffer to this README or related
-LinkedIn post(s). Be careful how you use the code and generated information, no guarantee 
-regarding quality or correctness is given!
+The code is free to modify an use by anyone as long as you give reference. Be careful how you 
+use the code and generated information, no guarantee regarding quality or correctness is given!
 
 # SCB API USAGE
 https://www.scb.se/en/About-us/about-the-website-and-terms-of-use/open-data-api/api-for-the-statistical-database/
